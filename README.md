@@ -38,7 +38,7 @@
             background: #007BFF;
             color: white;
             padding: 10px;
-            margin-top: 20px;
+            margin-top: 10px;
             text-decoration: none;
             border-radius: 5px;
         }
