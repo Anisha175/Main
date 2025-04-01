@@ -13,7 +13,7 @@
         .container {
             width: 60%;
             margin: 20px auto;
-            background: white;
+            background: red ;
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0px 0px 10px gray;
@@ -36,7 +36,7 @@
             display: block;
             text-align: center;
             background: #007BFF;
-            color: white;
+            color: green ;
             padding: 10px;
             margin-top: 10px;
             text-decoration: none;
